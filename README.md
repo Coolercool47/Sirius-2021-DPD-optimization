@@ -14,3 +14,4 @@
 * Maslovskiy, A., Pasechnyuk, D., Gasnikov, A., Anikin, A., Rogozin, A., Gornov, A., ... & Begicheva, M. (2021). Non-convex optimization in digital pre-distortion of the signal. arXiv preprint [arXiv:2103.10552](https://arxiv.org/pdf/2103.10552.pdf).
 
 Архитектура моделей и код блоков унаследованы из [репозитория №1](https://github.com/Huawei-Sirius-Summer-2020/DPDBlocks) и [репозитория №2](https://github.com/Huawei-Sirius-Summer-2020/Maslovskiy-seminars-and-leactures)
+P.S. Тут был Егорка
